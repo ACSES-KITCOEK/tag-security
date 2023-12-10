@@ -5,6 +5,8 @@ The Self-assessment is the initial document for Cortex to begin thinking about t
 Authors: Dhanraj Chavan @heydc7 Raiya Haque @raiyahaque Abdul Alhazmi @Abkzmii Sushanth Rabipalli sushanth3120
 Contributors/Reviewers: Pranava Kumar Vemula (@Rana-KV)
 
+This is smaole
+
 ## Self-assessment outline
 
 ### Table of contents
